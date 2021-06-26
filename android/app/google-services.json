@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1078517950261",
+    "project_id": "the-endless",
+    "storage_bucket": "the-endless.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078517950261:android:4737044ee8c371325a4e7c",
+        "android_client_info": {
+          "package_name": "com.example.doc_conversion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078517950261-r216e25or9fp3f4oq06i14l9sni9h2je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doc_conversion",
+            "certificate_hash": "624536d9332cc7c4495081104d80c29e1e5cc51a"
+          }
+        },
+        {
+          "client_id": "1078517950261-pk7n4hsh5u1p1tj529hahrfg5ree99eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxi7TdMYv4gUKiZpDGu033EjJZY2lX7fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078517950261-pk7n4hsh5u1p1tj529hahrfg5ree99eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
